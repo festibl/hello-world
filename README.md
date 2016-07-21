@@ -1,2 +1,2 @@
 # hello-world
-Dani &amp; Sam getting familiar with GitHub
+Sam &amp; Dani getting very familiar with GitHub
